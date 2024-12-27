@@ -1,8 +1,7 @@
 {
   "name": "@kai/types-nhentai",
-  "module": "index.ts",
-  "main": "",
-  "types": "index.d.ts",
+  "main": "index.ts",
+  "type": "module",
   "private": true,
   "devDependencies": {
     "@types/bun": "latest"
